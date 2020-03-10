@@ -16,5 +16,7 @@ plugins:
   - jekyll-seo-tag
   
 collections:
-  - En
-  - Fr
+  en:
+    relative_directory: en
+  fr:
+    relative_directory: fr
